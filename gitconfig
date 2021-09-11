@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = thomas.guth@dauphine.eu
+	name = thomas guth
